@@ -1,0 +1,32 @@
+{
+  "name": "eco_bot_admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "google-play-scraper": "^8.1.0",
+    "googleapis": "^100.0.0",
+    "imgur": "^2.2.0",
+    "imgur-node-api": "^0.1.0",
+    "mongoose": "^6.2.2",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "uuid": "^8.3.2",
+    "zustand": "^4.0.0-rc.0"
+  }
+}

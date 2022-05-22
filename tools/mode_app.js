@@ -1,0 +1,22 @@
+module.exports = {
+    active_appeal:"active_appeal",
+    done_appeal:"done_appeal",
+    inf_board:"inf_board",
+    return_back:"return_back",
+    return_home:"return_home",
+    on_forest:"on_forest",
+    on_landfills:"on_landfills",
+    on_pit:"on_pit",
+    on_barriers:"on_barriers",
+    on_other:"on_other",
+    show_map:"show_map",
+    send_to_done:"send_to_done",
+    delete_appeal:"delete_appeal",
+    not_first:"not_first",
+    next_step:"next_step",
+    next_step_text:"next_step_text",
+    send_message:"send_message",
+    next_step_cord:"next_step_cord",
+    not_activ:"not_activ",
+    delete_not:"delete_not"
+}
